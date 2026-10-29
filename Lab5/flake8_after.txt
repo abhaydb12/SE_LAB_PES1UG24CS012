@@ -1,1 +1,0 @@
-Report is available in the source Lab 5 repository: https://github.com/abhaydb12/L5_13_pharmacy_stock/blob/main/flake8_after.txt
