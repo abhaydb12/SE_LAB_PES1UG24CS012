@@ -10,3 +10,5 @@ This folder contains the Lab 5 static code analysis work for `pharmacy_system.py
 - `Lab5_Static_Code_Analysis_Deliverables.docx`: documentation, issue table, and reflection answers.
 
 The source repository also contains the files used to prepare this lab: https://github.com/abhaydb12/L5_13_pharmacy_stock
+
+The DOCX report is available there at: https://github.com/abhaydb12/L5_13_pharmacy_stock/blob/main/Lab5_Static_Code_Analysis_Deliverables.docx
