@@ -1,0 +1,8 @@
+************* Module pharmacy_system
+pharmacy_system.py:71:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+pharmacy_system.py:100:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+pharmacy_system.py:124:4: W0105: String statement has no effect (pointless-string-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.62/10 (previous run: 9.62/10, +0.00)
+
